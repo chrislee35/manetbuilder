@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="ManetBuilder.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="ManetBuilder"/>
+    </fileobject>
+    <fileobject name="ManetBuilderOptionTable.java">
+        <attr name="class_dependency_javax.swing.table.AbstractTableModel" stringvalue="ManetBuilderOptionTable"/>
+    </fileobject>
+    <fileobject name="MapPanel.java">
+        <attr name="class_dependency_java.awt.print.Printable" stringvalue="MapPanel"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="MapPanel"/>
+    </fileobject>
+    <fileobject name="MapSetupDialog.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="MapSetupDialog"/>
+    </fileobject>
+</attributes>

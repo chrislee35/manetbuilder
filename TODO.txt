@@ -1,0 +1,49 @@
+Project title: ManetBuilder
+Author: Chris Lee
+Created: 8.18.04
+Modified: 8.25.04
+
+TODO List
+=========
+Project
+1. Webpage & Help
+2. Developers' guide
+
+General Interface
+1. fix table input focus problem
+*2. create major and minor grid lines
+*3. reassign keys away from the number keys.. they interfere with number input.
+*4. update slider during animation
+*5. snap to grid
+
+Layout Mode
+*1. sizing of the topology with panning. (look into scaling)
+*2. moving of nodes by dragging
+*3. save copy
+*4. save as image
+*5. print
+*6. limit zoom to 1/8x ~ 16x
+7. export for qualnet and ns2 (Simulator subclasses)
+*8. grid
+*9. delete nodes
+*10. link lengths
+11. Multi-select of nodes
+
+Mobility Mode
+*1. timeline
+*2. mobility models (Random/Drunken/Hop)
+*3. straight-path mobility
+*4. automated animation
+5. delete waypoints
+6. location edit of waypoints
+
+Application Mode
+1. develop application classes
+2. attach application to node(s)
+
+Loading and Saving
+*1. Mobility and map info
+*2. Relative paths for images
+*3. Options table
+4. fix save dialog
+*5. save as image broken?

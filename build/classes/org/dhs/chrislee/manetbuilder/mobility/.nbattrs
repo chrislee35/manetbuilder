@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="CurvedPathMobility.java">
+        <attr name="class_dependency_org.dhs.chrislee.manetbuilder.mobility.Mobility" stringvalue="CurvedPathMobility"/>
+    </fileobject>
+    <fileobject name="DrunkenMobility.java">
+        <attr name="class_dependency_org.dhs.chrislee.manetbuilder.mobility.Mobility" stringvalue="DrunkenMobility"/>
+    </fileobject>
+    <fileobject name="RandomMobility.java">
+        <attr name="class_dependency_org.dhs.chrislee.manetbuilder.mobility.Mobility" stringvalue="RandomMobility"/>
+    </fileobject>
+    <fileobject name="StraightPathMobility.java">
+        <attr name="class_dependency_org.dhs.chrislee.manetbuilder.mobility.Mobility" stringvalue="StraightPathMobility"/>
+    </fileobject>
+    <fileobject name="TeleportMobility.java">
+        <attr name="class_dependency_org.dhs.chrislee.manetbuilder.mobility.Mobility" stringvalue="TeleportMobility"/>
+    </fileobject>
+</attributes>
